@@ -7,6 +7,8 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 - Natural Language Processing for Law
 - Comparative Family Law
 - Data-Driven Policy Analysis
+- Social Inequality
+- Social Media
 
 **I am open to:**
 - Research Assistant positions in Computational Social Science
@@ -62,7 +64,3 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skyesu.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Skye-SU)
-
----
-
-![Skye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skye-SU&show_icons=true&theme=default&hide_border=true)
