@@ -1,19 +1,18 @@
 # Hi there, I'm Skye SU 👋
 
-I am a Master's graduate in **Social Policy** at [Lingnan University](https://www.ln.edu.hk/), Hong Kong. My research focuses on using **NLP and computational methods** to analyze legal texts — specifically comparing divorce property division between UK and Chinese courts.
+I am a Master's graduate in **Social Policy** at [Lingnan University](https://www.ln.edu.hk/), Hong Kong, with a **BA in English**. My research uses **NLP, computational methods, and generative AI** to analyze texts across disciplines — from legal judgments and policy documents to literary works.
 
 **My Research Interests:**
+- Digital Humanities & Generative AI in Creative/Research Contexts
 - Computational Legal Studies
-- Natural Language Processing for Law
-- Comparative Family Law
+- Natural Language Processing for Text Analysis
 - Data-Driven Policy Analysis
-- Social Inequality
-- Social Media
+- AI-Augmented Research Workflows
 
 **I am open to:**
-- Research Assistant positions in Computational Social Science
-- Collaboration on legal text mining projects
-- NLP applications in social policy research
+- Research Assistant positions in Digital Humanities & Computational Social Science
+- Collaboration on AI-augmented text analysis projects
+- NLP applications in humanities, legal, and social policy research
 
 ---
 
@@ -53,10 +52,13 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 
 ---
 
-## Featured Project:
+## Featured Projects:
 
 ⚖️ **[Computational Legal Studies Portfolio](https://github.com/Skye-SU/Computational-Legal-Studies-Portfolio)**
 > Quantifying the "Gap of Justice" between UK and Chinese divorce judgments using NLP and statistical analysis.
+
+🚀 **[AI-Augmented Research Portfolio](https://skye-su.github.io/ai-augmented-portfolio/)**
+> Showcasing AI-assisted research workflows: from vibe coding to multi-agent data pipelines.
 
 ---
 
