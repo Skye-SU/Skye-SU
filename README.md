@@ -61,9 +61,6 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 
 ## Featured Projects:
 
-🪶 **Amicus** · *Private*
-> A RAG-powered AI teaching assistant for Computational Legal Studies. Built with LangChain ReAct agents, hybrid retrieval (vector + BM25), and a custom FastAPI backend. Designed for law scholars learning to code.
-
 ⚖️ **[Computational Legal Studies Portfolio](https://github.com/Skye-SU/Computational-Legal-Studies-Portfolio)**
 > Quantifying the "Gap of Justice" between UK and Chinese divorce judgments using NLP and statistical analysis.
 
