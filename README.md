@@ -21,6 +21,8 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 **Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
@@ -43,9 +45,14 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**LLM & AI Workflow:**
+**LLM & AI Engineering:**
 
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat)
+![RAG](https://img.shields.io/badge/-RAG%20Pipeline-8B5CF6?style=flat)
 ![Claude](https://img.shields.io/badge/-Claude-7C3AED?style=flat)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF6F61?style=flat)
@@ -53,6 +60,9 @@ I am a Master's graduate in **Social Policy** at [Lingnan University](https://ww
 ---
 
 ## Featured Projects:
+
+🪶 **Amicus** · *Private*
+> A RAG-powered AI teaching assistant for Computational Legal Studies. Built with LangChain ReAct agents, hybrid retrieval (vector + BM25), and a custom FastAPI backend. Designed for law scholars learning to code.
 
 ⚖️ **[Computational Legal Studies Portfolio](https://github.com/Skye-SU/Computational-Legal-Studies-Portfolio)**
 > Quantifying the "Gap of Justice" between UK and Chinese divorce judgments using NLP and statistical analysis.
